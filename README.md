@@ -15,7 +15,7 @@ The best collection of dangerous domains (and ad domains), as well as other harm
 Add the blocklist to your Pi-hole:
 
 **Stable version:**  
-[http://pihole.asmin.pl/lists/stable/stable.txt](http://pihole.asmin.pl/lists/stable/stable.txt)
+[https://pihole.asmin.pl/lists/stable/stable.txt](https://pihole.asmin.pl/lists/stable/stable.txt)
 
 ### **Step 2**  
 Refresh the gravity database:
@@ -33,7 +33,7 @@ Enjoy significantly reduced malicious domains and ads in your browser.
 All previous versions of the blocklist are stored here:
 
 **Archive directory:**  
-[http://pihole.asmin.pl/lists/archive/](http://pihole.asmin.pl/lists/archive/)  
+[https://pihole.asmin.pl/lists/archive/](https://pihole.asmin.pl/lists/archive/)  
 or inside this GitHub repository.
 
 ---
