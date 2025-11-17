@@ -40,7 +40,7 @@ or inside this GitHub repository.
 
 ## Sources Used in This Blocklist
 
-- **Steven Black** – github.com/StevenBlack  
+- **Steven Black** – github.com/StevenBlack `[ License MIT - http://pihole.asmin.pl/lists/license/StevenBlack%20(MIT).txt ]` 
 - **CERT Polska** – cert.pl/lista-ostrzezen/  
 - **TranzytorPL Malware** – tranzystor.pl/pliki/malware.txt  
 - **TranzytorPL FakeNews** – tranzystor.pl/pliki/fakenews.txt  
